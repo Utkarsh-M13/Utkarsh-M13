@@ -4,9 +4,9 @@
 
 I'm **Utkarsh Majithia**, a junior studying **Computer Science and Electrical Engineering** at **Purdue University**.  
 
-🚀 Currently, I'm working on a **Sentiment Analysis Trader App**, combining my interests in **machine learning, natural language processing, and finance**.  
+Currently, I'm working on a **Sentiment Analysis Trader App**, combining my interests in **machine learning, natural language processing, and finance**.  
 
-💼 I'm also **actively looking for software engineering opportunities** where I can apply my skills in **full-stack development, systems programming, and AI-driven applications**.  
+I'm also **actively looking for software engineering opportunities** where I can apply my skills in **full-stack development, systems programming, and AI-driven applications**.  
 
 ---
 
@@ -17,9 +17,9 @@ I'm **Utkarsh Majithia**, a junior studying **Computer Science and Electrical En
 
 ---
 
-📫 Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/utkarshmajithia)  
+Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/utkarshmajithia)  
 
-
+---
 <!--
 **Utkarsh-M13/Utkarsh-M13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
