@@ -10,7 +10,7 @@ I'm also **actively looking for software engineering opportunities** where I can
 
 ---
 
-###Technologies & Skills
+### Technologies & Skills
 - **Languages:** C, C++, Java, Python, JavaScript/TypeScript, Bash  
 - **Frameworks & Tools:** React, React Native, Node.js, Express, MongoDB, Vite, Flex/Bison  
 - **Special Interests:** NLP, competitive programming, systems programming, full-stack apps  
